@@ -1,4 +1,4 @@
-def welcome(a, b):
-    print welcome, a, b
+def welcome(a, e):
+    print welcome, a, e
 
 
